@@ -18,6 +18,10 @@ Mohon dukung Yang punya repositori : [Saweria](https://saweria.co/masgimenz "Saw
 ```bash
 npm i github:bolaxd/insta-fetcher
 ```
+Atau memakai yarn
+```bash
+yarn add github:bolaxd/insta-fetcher
+```
 
 ### recommended to set the cookie before make call to all function
 
