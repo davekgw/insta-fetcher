@@ -59,4 +59,5 @@ ig.fetchUser("mg.creativestudio").then((res) => {
 
 ## TQ TO:
 
-- https://github.com/Gimenz/nganu - simple multi-device base WhatsApp Bot
+- https://github.com/Gimenz/
+For Implementation first
